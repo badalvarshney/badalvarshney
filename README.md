@@ -1,4 +1,4 @@
-![Banner](https://www.linkedin.com/in/badal-varshney-developer/overlay/background-photo/)
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQGtiOl_fKDmwA/profile-displaybackgroundimage-shrink_350_1400/B56Z0kBShRKYAY-/0/1774425813162?e=1776902400&v=beta&t=jSEtKSOgsO2eAD-gOZHqfummU3slzvu7eYc6hcoiDn4)
 
 
 <h1 align="center">Hi 👋, I'm Badal Varshney</h1>
