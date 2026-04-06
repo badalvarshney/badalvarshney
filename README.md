@@ -1,3 +1,6 @@
+![Banner](https://www.linkedin.com/in/badal-varshney-developer/overlay/background-photo/)
+
+
 <h1 align="center">Hi 👋, I'm Badal Varshney</h1>
 
 <p align="center">
