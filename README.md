@@ -111,10 +111,6 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 
 ...
 
-## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=badalvarshney&show_icons=true&theme=radical)
-
----
 
 ## 🔥 Streak Stats:
 ![Streak](https://streak-stats.demolab.com/?user=badalvarshney&theme=radical)
