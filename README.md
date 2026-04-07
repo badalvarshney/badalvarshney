@@ -48,6 +48,7 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge)
+![Redux Toolkit](https://img.shields.io/badge/ReduxToolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 
 ---
@@ -76,8 +77,27 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/GoogleGravity-black?style=for-the-badge&logo=google&logoColor=white)
 
 ---
+
+### 🤖 AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge)
+![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge)
+
+...
+
+
+### 💻 Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+...
 
 ## 📊 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=badalvarshney&show_icons=true&theme=radical)
