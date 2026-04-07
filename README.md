@@ -29,7 +29,7 @@
 
 ## 🌐 Connect With Me:
 <p align="left">
-<a href="www.linkedin.com/in/badal-varshney-developer">LinkedIn</a> |
+<a href="https://www.linkedin.com/in/badal-varshney-developer/">LinkedIn</a> |
 <a href="YOUR_LEETCODE_LINK">LeetCode</a> |
 <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
 </p>
