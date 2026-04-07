@@ -26,12 +26,24 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ---
 
 ## 🌐 Connect With Me:
-<p align="left">
-<a href="https://www.linkedin.com/in/badal-varshney-developer/">LinkedIn</a> |
-<a href="YOUR_LEETCODE_LINK">LeetCode</a> |
-<a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
-</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/badal-varshney-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="YOUR_INSTAGRAM_LINK">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="YOUR_LEETCODE_LINK">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+  </a>
+
+  <a href="https://www.instagram.com/iam_badalvarshney_official?igsh=MWVhb2kwdTh2eTN5Zg==">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 💻 Tech Stack:
