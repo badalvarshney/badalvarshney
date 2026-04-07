@@ -92,6 +92,9 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/GoogleAntigravity-black?style=for-the-badge&logo=google&logoColor=white)
 
 ---
