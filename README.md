@@ -44,6 +44,8 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
+
+
 ---
 
 ## 💻 Tech Stack:
@@ -101,7 +103,7 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge)
 ![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge)
 
-...
+---
 
 
 ### 💻 Operating Systems
@@ -109,7 +111,7 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-...
+---
 
 
 ## 🔥 Streak Stats:
