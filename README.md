@@ -15,8 +15,6 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ---
 
 ## 🚀 Current Work
-🔭 I’m currently working on **ToolBox-Pro** (Frontend AI Utility Website)
-
 👯 I’m looking to collaborate on **Frontend Projects**
 
 🌱 I’m currently learning **Advanced React & DSA**
@@ -50,15 +48,19 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)
+
 
 ---
 
 ### 🧩 UI Libraries & Tools
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)
+![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Mantine](https://img.shields.io/badge/Mantine-blue?style=for-the-badge)
 ![Radix UI](https://img.shields.io/badge/RadixUI-black?style=for-the-badge)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-green?style=for-the-badge)
+![Aceternity UI](https://img.shields.io/badge/AceternityUI-black?style=for-the-badge)
 
 ---
 
