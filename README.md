@@ -4,14 +4,13 @@
 <h1 align="center">Hi 👋, I'm Badal Varshney</h1>
 
 <p align="center">
-  💻 Full Stack Developer | 🤖 Machine Learning Enthusiast
+  💻 Software Developer
 </p>
 
 ---
 
 ## 🌟 About Me:
-💫 Passionate about both machine learning and full-stack web development, I'm a versatile tech enthusiast dedicated to crafting innovative solutions.  
-I love blending data-driven insights with seamless user experiences to build impactful applications.
+💫 Hi, I’m Badal! I'm a web developer with in-depth experience in Web design. In a nutshell, I create websites that help organizations address a business challenge.
 
 ---
 
@@ -20,9 +19,9 @@ I love blending data-driven insights with seamless user experiences to build imp
 
 👯 I’m looking to collaborate on **Fullstack & ML Projects**
 
-🌱 I’m currently learning **TensorFlow & DSA**
+🌱 I’m currently learning **DSA**
 
-💬 Ask me about **React, MongoDB, Express, Node.js**
+💬 Ask me about **ReactJS, NextJS**
 
 ⚡ Fun fact: I focus on **self-growth + tech innovation**
 
@@ -30,7 +29,7 @@ I love blending data-driven insights with seamless user experiences to build imp
 
 ## 🌐 Connect With Me:
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK">LinkedIn</a> |
+<a href="www.linkedin.com/in/badal-varshney-developer">LinkedIn</a> |
 <a href="YOUR_LEETCODE_LINK">LeetCode</a> |
 <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
 </p>
