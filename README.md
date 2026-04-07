@@ -4,26 +4,27 @@
 <h1 align="center">Hi 👋, I'm Badal Varshney</h1>
 
 <p align="center">
-  💻 Software Developer
+  💻 Frontend Developer | 🎨 UI/UX Enthusiast
 </p>
 
 ---
 
 ## 🌟 About Me:
-💫 Hi, I’m Badal! I'm a web developer with in-depth experience in Web design. In a nutshell, I create websites that help organizations address a business challenge.
+💫 Hi, I’m Badal! I'm a passionate **Frontend Developer** who loves building modern, responsive and user-friendly websites.  
+I focus on creating clean UI and smooth user experiences.
 
 ---
 
 ## 🚀 Current Work
-🔭 I’m currently working on **ToolBox-Pro** (AI Utility Website)
+🔭 I’m currently working on **ToolBox-Pro** (Frontend AI Utility Website)
 
-👯 I’m looking to collaborate on **Fullstack & ML Projects**
+👯 I’m looking to collaborate on **Frontend Projects**
 
-🌱 I’m currently learning **DSA**
+🌱 I’m currently learning **Advanced React & DSA**
 
-💬 Ask me about **ReactJS, NextJS**
+💬 Ask me about **ReactJS, NextJS, UI Design**
 
-⚡ Fun fact: I focus on **self-growth + tech innovation**
+⚡ Fun fact: I enjoy designing clean and interactive interfaces
 
 ---
 
@@ -39,39 +40,33 @@
 ## 💻 Tech Stack:
 
 ### 🚀 Programming Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
-
----
-
-### 🌐 Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+
+---
+
+### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge)
 
 ---
 
-### 🔧 Backend
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
+### 🧩 UI Libraries & Tools
+![Mantine](https://img.shields.io/badge/Mantine-blue?style=for-the-badge)
+![Radix UI](https://img.shields.io/badge/RadixUI-black?style=for-the-badge)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-green?style=for-the-badge)
 
 ---
 
-### 🛢 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
-
----
-
-### 🤖 ML & Data Science
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge)
+### 📱 Other Frontend Skills
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
+![Web Animations](https://img.shields.io/badge/Animations-orange?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI/UX-blue?style=for-the-badge)
 
 ---
 
@@ -79,6 +74,7 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge)
 
 ---
 
