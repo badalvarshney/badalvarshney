@@ -10,8 +10,7 @@
 ---
 
 ## 🌟 About Me:
-💫 Hi, I’m Badal! I'm a passionate **Frontend Developer** who loves building modern, responsive and user-friendly websites.  
-I focus on creating clean UI and smooth user experiences.
+Hi, I’m Badal, a Frontend Developer specializing in building modern, responsive web applications. I have a strong focus on creating clean, scalable UI designs and delivering consistent user experiences. I’m passionate about writing efficient code and continuously improving the usability and performance of web interfaces.
 
 ---
 
