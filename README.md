@@ -119,3 +119,36 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 
 ## 🔥 Streak Stats:
 ![Streak](https://streak-stats.demolab.com/?user=badalvarshney&theme=radical)
+
+
+
+
+- uses: lowlighter/metrics@latest
+  with:
+    config_timezone: Europe/Paris
+
+
+    name: Mildly interesting facts
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.habits.facts.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_habits: yes
+  plugin_habits_facts: yes
+  plugin_habits_charts: no
+  config_timezone: Europe/Paris
+
+
+  name: Recent activity charts
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.habits.charts.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_habits: yes
+  plugin_habits_facts: no
+  plugin_habits_charts: yes
+  config_timezone: Europe/Paris
+
+
