@@ -123,3 +123,13 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 
 ![Widget](https://git-ascii.vercel.app/api/Igorcbraz)
 
+
+<a href="https://igorcbraz.vercel.app">
+  <img
+    src="https://git-ascii.vercel.app/api/Igorcbraz?v=1"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
+
+
