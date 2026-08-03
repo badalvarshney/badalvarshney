@@ -121,5 +121,5 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ![Streak](https://streak-stats.demolab.com/?user=badalvarshney&theme=radical)
 
 
-
+![Widget](https://git-ascii.vercel.app/api/Igorcbraz)
 
