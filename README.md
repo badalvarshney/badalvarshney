@@ -121,15 +121,12 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ![Streak](https://streak-stats.demolab.com/?user=badalvarshney&theme=radical)
 
 
-![Widget](https://git-ascii.vercel.app/api/Igorcbraz)
 
-
-<a href="https://igorcbraz.vercel.app">
+<a href="https://github.com/BadalVarshney">
   <img
-    src="https://git-ascii.vercel.app/api/Igorcbraz?v=1"
+    src="https://git-ascii.vercel.app/api/BadalVarshney?v=1"
     alt="GitAscii Widget"
     width="100%"
   />
 </a>
-
 
