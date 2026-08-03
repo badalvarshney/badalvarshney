@@ -122,11 +122,5 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 
 
 
-<a href="https://github.com/BadalVarshney">
-  <img
-    src="https://git-ascii.vercel.app/api/BadalVarshney?v=1"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
+
 
