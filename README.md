@@ -87,8 +87,6 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ---
 
 ### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
