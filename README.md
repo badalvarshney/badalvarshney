@@ -95,7 +95,6 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/GoogleAntigravity-black?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -105,6 +104,17 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=github&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge)
 ![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge)
+![Google Antigravity](https://img.shields.io/badge/GoogleAntigravity-black?style=for-the-badge&logo=google&logoColor=white)
+
+
+---
+
+
+### 🤖 Version Control
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+![GitHub Destop](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+
 
 ---
 
