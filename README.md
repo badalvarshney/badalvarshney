@@ -108,10 +108,11 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 ---
 
 
+
 ### 🤖 Version Control
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
-![GitHubdesktop](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+![GitHubdesktop](https://img.shields.io/badge/GitHubdesktop-black?style=for-the-badge)
 
 
 ---
@@ -127,6 +128,8 @@ Hi, I’m Badal, a Frontend Developer specializing in building modern, responsiv
 
 ## 🔥 Streak Stats:
 ![Streak](https://streak-stats.demolab.com/?user=badalvarshney&theme=radical)
+
+
 
 
 
