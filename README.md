@@ -1,4 +1,4 @@
-![Banner]([https://media.licdn.com/dms/image/v2/D5616AQGtiOl_fKDmwA/profile-displaybackgroundimage-shrink_350_1400/B56Z0kBShRKYAY-/0/1774425813162?e=1787184000&v=beta&t=o_b0ZUiihaVYOAHqyZFtmhky2sOZGCIHtlhGHPq9KKo](https://drive.google.com/file/d/1ckIZA90x_D5M3IHyLIXBqu3yRwq77IcG/view?usp=drive_link))
+![Banner]([https://drive.google.com/file/d/1ckIZA90x_D5M3IHyLIXBqu3yRwq77IcG/view]))
 
 
 <h1 align="center">Hi 👋, I'm Badal Varshney</h1>
