@@ -1,4 +1,5 @@
-![Banner]([https://drive.google.com/file/d/1ckIZA90x_D5M3IHyLIXBqu3yRwq77IcG/view]))
+![Banner]([https://drive.google.com/file/d/1ckIZA90x_D5M3IHyLIXBqu3yRwq77IcG/view?usp=sharing]))
+
 
 
 <h1 align="center">Hi 👋, I'm Badal Varshney</h1>
